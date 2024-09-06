@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **tiffanylithagoliath@gmail.com**
 
-- ⚡ Fun fact **I do nails as a side hustle.**
+- ⚡ Fun fact **I run a nail business on the side - https://www.instagram.com/tiff_the_nailtech?igsh=MWNtcmlzZGIxMDR5OA==**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
