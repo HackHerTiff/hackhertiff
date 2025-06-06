@@ -1,10 +1,22 @@
-# Hello, I am Tiff! 👋🏾 
+# Hey there, I'm Tiff! 👋🏾💻🔐
 
-[![GitHub Banner](https://raw.githubusercontent.com/HackHerTiff/hackhertiff/main/GitHub%20Banner.png)](https://raw.githubusercontent.com/HackHerTiff/hackhertiff/main/GitHub%20banner.mp4)
+[![GitHub Banner](main.png)](main.png)
 
-I'm a Junior Software Developer and Junior CyberSecurity specialist, recently graduated and eager to start my first full time role in the field. Passionate about technology and continuous learning, I thrive in public speaking and creating a comfortable environment for others. I also manage a small home based <a href="https://www.instagram.com/tiff_the_nailtech?igsh=YTVwc3p6Mmpob3J1">Nail-Salon</a>, which enhances my organizational skills. In my free time, I enjoy <a href="https://www.instagram.com/p/CzyzIpKtBYE/?igsh=MXF0Y254MmN2d3oz">hiking</a>, park runs, and attending comic conventions. I look forward to building a <a href="https://www.instagram.com/p/DEDgIlfMoq8/?igsh=MTJ2Z2V1NGNjb3Nzdw==">family</a> and balancing my professional and personal growth.
+Welcome to my little corner of the tech universe 🌌  
+I'm a **Cyber Security graduate** and **Junior Software Developer** just starting out — but full of big ideas, fresh curiosity, and lots of passion for learning! 🌱💡
 
-## Social Links: 
+This GitHub is my sandbox 🏖️ — a space where I experiment, build, break, and rebuild 🚀  
+From quirky coding challenges to projects that (hopefully!) make life easier or a bit more fun, this is where you'll see my journey unfold, one repo at a time 📂✨
 
-- Social butterfly on <a href="https://www.instagram.com/tiff_the_nailtech?igsh=YTVwc3p6Mmpob3J1">Instagram</a> 
-- Sharing updates on <a href="https://www.linkedin.com/in/monicampowell/](https://www.linkedin.com/in/tiffany-goliath-820a10243/)">LinkedIn</a> 
+I'm **always open to learning**, collaborating 🤝, and growing alongside awesome devs like you!  
+Outside the screen, you can find me:
+- 🥾 Hiking mountain trails  
+- ⛪ Recharging at church  
+- 🛋️ Enjoying peaceful weekends with my amazing family  
+
+### 🌐 Let's connect!
+- 📸 <a href="https://www.instagram.com/tiffany_litha_goliath/">Instagram</a> — A little beauty, a little tech, a lot of fun!
+- 💼 <a href="https://www.linkedin.com/in/monicampowell/](https://www.linkedin.com/in/tiffany-goliath-820a10243/)">LinkedIn</a> — Let's build and grow professionally
+- 📬 [Email](tiffanylithagoliath@gmail.com) — Reach out anytime!
+
+Thanks for stopping by — let’s build something great together! 🌍👩🏾‍💻
